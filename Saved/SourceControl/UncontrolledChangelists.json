@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/The House owner/The_House_Owner/Content/Mansion/All_levels/The_Mansion.umap",
+				"E:/The House owner/The_House_Owner/Content/Mansion/All_levels/_GENERATED/soory/Box_E4DA27BA.uasset",
+				"E:/The House owner/The_House_Owner/Content/Mansion/_GENERATED/soory/Rectangle_ED555CEA.uasset",
+				"E:/The House owner/The_House_Owner/Content/Mansion/All_levels/_GENERATED/soory/Rectangle_86EB7889.uasset",
+				"E:/The House owner/The_House_Owner/Content/Mansion/All_levels/_GENERATED/soory/Stairs_6F5C57C0.uasset",
+				"E:/The House owner/The_House_Owner/Content/Mansion/All_levels/_GENERATED/soory/Stairs_E02DDC52.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/The_Mansion.umap",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/mannequin/Alpha_Body_MAT.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/mannequin/Alpha_Joints_MAT.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/_GENERATED/soory/Rectangle_ED555CEA.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/mannequin/Y_Bot.uasset",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/All_levels/The_Mansion.umap",
+				"E:/The_House_Owner/The_House_Owner/Content/Mansion/All_levels/Player_mechanics.umap"
+			]
+		}
+	]
+}
